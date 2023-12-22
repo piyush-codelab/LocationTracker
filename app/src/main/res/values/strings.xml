@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">LocationTracker</string>
+    <string name="google_maps_api_key">AIzaSyBwqurpI1PExbO5LShRmtkFPMsaMzqwQak</string>
+
+    <string name="findLocation">Find Location Of Your Lost Phone</string>
+    <string name="toolbarTitle">toolbar</string>
+    <string name="trackLocationDescription">Activate this feature to remotely find location of lost phone from this device</string>
+    <string name="activate">Activate</string>
+    <string name="connectedDevices">Connected Devices</string>
+    <string name="connectedDevicesDescription">Track Location Of The Following Connected Devices</string>
+    <string name="LocateDevice">Locate Device</string>
+    <string name="activationText">By activating this feature you will be able to find your lost phone\'s(logged in with same gmail) location if the location is changed.\Location data is used to track the remote device if it is lost.\\Click on accept button if you agree to this and want to activate this feature.</string>
+    <string name="splashText">Lost Phone Finder</string>
+    <string name="find_your_lost_phone_by_identifying_lost_phone_location_on_map">Find Your Lost Phone By Identifying Lost Phone Location On Map</string>
+    <string name="viewOnMap">View on map</string>
+    <string name="details">Details</string>
+    <string name="request_location">Request Location</string>
+
+    <string name="ring">ring</string>
+    <string name="location">location</string>
+    <string name="lock">lock</string>
+    <string name="erase">erase</string>
+    <string name="flash">flash</string>
+    <string name="erase_dialog_text">Are you sure you want to delete all data from the selected device?</string>
+    <string name="sign_out">Sign out</string>
+    <string name="sign_in">Sign In</string>
+    <string name="save">Sign in with Gmail</string>
+    <string name="sign_in_description">Sign In With Your Account For Finding Of Your Lost Phone</string>
+    <string name="screen_overlay_permission">Screen Overlay Permission</string>
+    <string name="to_track_this_lost_phone_even_if_it_is_locked_you_need_to_allow_display_over_the_apps_permission_to_work_the_features_smoothly">To track this lost phone even if it is locked, you need to allow Display over the apps permission to work the features smoothly.</string>
+    <string name="allow">Allow</string>
+    <string name="are_you_sure_you_want_to_signout">Are you sure, you want to signout?</string>
+    <string name="termsAndConditions">Terms &amp;\Conditions</string>
+
+    <string name="terms_and_condition_description">Lost phone android application let you find lost device with easy access. It contains powerful and essential tools that help you to track your lost phone. Lost phone app allows you to find location, ring phone, lock phone, erase data of your lost android remotely.</string>
+
+    <string name="permission_required_description">The lost phone app requires following permissions to perform its tasks effectively.</string>
+
+    <string name="permission_1">1. Background Location Permission:\This permission is required to find the location of your lost phone.</string>
+    <string name="permission_3">2. Device Admin Permission:  This permission is required to erase or lock your lost phone.</string>
+    <string name="permission_2">3. Internet Access:  This app requires an active internet connection to use the app.</string>
+    <string name="acceptAndContinue">Accept &amp; Continue</string>
+    <string name="find_location">Find Location</string>
+    <string name="find_location_of_your_lost_phone">Find Location of your lost phone</string>
+    <string name="locate">Locate</string>
+    <string name="play_your_lost_phone_n_ring">Play your Lost Phone \ Ring</string>
+    <string name="lock_phone">Lock Phone</string>
+    <string name="lost_phone_nfinder">Lost Phone\Finder</string>
+    <string name="description">By clicking on activate button you proceed with device admin activation to secure your phone.</string>
+    <string name="lockDescription">Lock the lost phone screen</string>
+    <string name="lockconnectedDevicesDescription">Lock Phone Of The Following Connected Devices</string>
+    <string name="device_is_ringing_click_on_dismiss_to_turn_off">Device is Ringing. Click on Dismiss to turn off.</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="permissionText">Admin Permission Required For Application You Can Lock Or Erase All Data Of Your Phone When You Lost Your Phone</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="do_you_really_want_to_delete_your_account">Do you really want to delete your account?</string>
+    <string name="delete">Delete</string>
+    <string name="erase_device">Erase Device</string>
+    <string name="lock_device_text">By activating this feature, you are able to lock your lost phone (logged in with same gmail) even if app is in the background.\Click on accept button if you agree to this and want to activate this feature.</string>
+    <string name="accept">Accept</string>
+    <string name="erase_all_data">Erase All Data</string>
+    <string name="please_first_enable_your_gps_to_activate_this_service">Please first enable your GPS to activate this service</string>
+    <string name="enable">Enable</string>
+    <string name="by_activating_this_feature_you_are_able_to_find_your_lost_phone_s_location_logged_in_with_same_gmail_in_the_background_if_the_location_is_changed_nlocation_data_is_used_to_track_remote_device_if_it_is_lost_nclick_on_accept_button_if_you_agree_to_this_and_want_to_activate_this_feature">By activating this feature, you are able to find your lost phone\'s location (logged in with same gmail) in the background if the location is changed.\Location data is used to track remote device if it is lost.\Click on accept button if you agree to this and want to activate this feature.</string>
+    <string name="lock_device">Lock Device</string>
+    <string name="erase_device_txt">By activating this feature, you are able to erase your lost phone data (logged in with same gmail) even if app is in the background.\Click on accept button if you agree to this and want to activate this feature.</string>
+    <string name="write_system_settings">Write System Settings</string>
+    <string name="anti_pocket">Anti Pocket</string>
+    <string name="do_not_snatch_my_phone">Do Not Snatch \My Phone</string>
+    <string name="route_finder">Route Finder</string>
+    <string name="route_finder_label">This Is Your Fastest \Route Finder</string>
+    <string name="route_finder_label1">This Is Your Fastest Route Finder</string>
+    <string name="near_by_places">Near By Places</string>
+    <string name="explore_near_by_places">Easily Explore Near \By Places</string>
+    <string name="explore_near_by_places1">Easily Explore Near By Places</string>
+    <string name="do_not_snatch_my_phone1">Do Not Snatch My Phone</string>
+    <string name="flash_light">Flash Light</string>
+    <string name="flash_light_label">Flash Light Turn On When Someone \Touch Your Phone</string>
+    <string name="vibration">Vibration</string>
+    <string name="vibration_label">Your Phone Will Start Vibrating When Someone\Touch Your Phone</string>
+    <string name="please_activate_service_first">Please Activate Service First</string>
+
+    <string name="press_activate_to_start_anti_pocket_detection">Press ACTIVATE Button To Start The Anti Pocket Detection</string>
+    <string name="activate_service">Activate Service</string>
+    <string name="press_activate_to_stop_anti_pocket_detection">Press DEACTIVATE Button To Stop The Anti Pocket Detection</string>
+    <string name="deactivate_service">Deactivate Service</string>
+    <string name="area_calculator">Area Calculator</string>
+    <string name="easily_calculate_area1">Easily Calculate Your Any Specific Area</string>
+    <string name="select_point">Please Select Two Points</string>
+    <string name="find_your_phone_with_just_a_clap">Find Your Phone With Just A Clap</string>
+    <string name="press_activate_button_to_start_the_whistle_detection">Press ACTIVATE Button To Start The Whistle Detection</string>
+    <string name="stop_whistle_text">Press DEACTIVATE Button To Stop The Whistle Detection</string>
+    <string name="find_by_clap">Find By Clap</string>
+    <string name="find_offline">Find Offline</string>
+    <string name="find_by_whistle">Find By Whistle</string>
+    <string name="find_your_phone_with_just_whistle">Find Your Phone With Just Whistle</string>
+    <string name="whistle">Whistle</string>
+    <string name="clap">Clap</string>
+    <string name="atm">Atm</string>
+    <string name="bank">Bank</string>
+    <string name="airport">Airport</string>
+    <string name="bus_stop">Bus Stop</string>
+    <string name="cafe">Cafe</string>
+    <string name="gym">Gym</string>
+    <string name="hospital">Hospital</string>
+    <string name="museums">Museums</string>
+    <string name="mosque">Mosque</string>
+    <string name="police">Police</string>
+    <string name="pump">Pump</string>
+    <string name="park">Park</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="school">School</string>
+    <string name="salon">Salon</string>
+    <string name="area">23</string>
+    <string name="total_area">Total Area in Sq=</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="default_web_client_id">692191449886-slkt9pac519j6hl31kqe9jrcvm3gjph1.apps.googleusercontent.com</string>
+
+
+</resources>

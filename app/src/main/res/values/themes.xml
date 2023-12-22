@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LocationTracker" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/purple_200</item>
+    </style>
+
+    <style name="Theme.LocationTracker" parent="Base.Theme.LocationTracker" />
+</resources>

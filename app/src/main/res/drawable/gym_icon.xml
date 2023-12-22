@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:height="30dp" android:width="30dp" android:viewportWidth="30" android:viewportHeight="30">
+    <path android:fillColor="#00000000" android:pathData="M15,15m-14,0a14,14 0,1 1,28 0a14,14 0,1 1,-28 0" android:strokeColor="#78ccb9" android:strokeWidth="1"/>
+    <path android:fillColor="#699b7f" android:pathData="M7.386,17.89L8.026,19.227C8.142,19.469 8.435,19.572 8.676,19.456L8.883,19.357L7.821,17.141L7.614,17.24C7.373,17.356 7.27,17.649 7.386,17.89L7.386,17.89Z"/>
+    <path android:fillColor="#699b7f" android:pathData="M20.803,10.918L20.598,11.016L21.66,13.232L21.865,13.134C22.109,13.017 22.209,12.725 22.094,12.483L21.453,11.147C21.337,10.905 21.047,10.801 20.803,10.918L20.803,10.918Z"/>
+    <path android:fillColor="#699b7f" android:pathData="M7.817,16.005L9.766,20.071C9.882,20.313 10.175,20.416 10.417,20.3L10.861,20.087L8.49,15.142L8.046,15.355C7.804,15.471 7.701,15.763 7.817,16.005L7.817,16.005Z"/>
+    <path android:fillColor="#699b7f" android:pathData="M19.065,10.073L18.618,10.286L20.989,15.232L21.435,15.018C21.677,14.902 21.78,14.609 21.664,14.368L19.715,10.301C19.599,10.059 19.306,9.957 19.065,10.073L19.065,10.073Z"/>
+    <path android:fillColor="#699b7f" android:pathData="M10.053,13.057L8.849,13.634C8.607,13.75 8.504,14.043 8.62,14.285L11.609,20.521C11.725,20.762 12.018,20.865 12.259,20.749L13.464,20.172C13.708,20.055 13.809,19.763 13.693,19.522L10.704,13.286C10.588,13.044 10.297,12.94 10.053,13.057L10.053,13.057Z"/>
+    <path android:fillColor="#699b7f" android:pathData="M17.219,9.622L16.014,10.2C15.772,10.316 15.669,10.608 15.785,10.85L18.774,17.086C18.89,17.327 19.183,17.43 19.425,17.315L20.629,16.737C20.873,16.62 20.974,16.329 20.858,16.087L17.869,9.851C17.753,9.61 17.463,9.505 17.219,9.622L17.219,9.622Z"/>
+    <path android:fillColor="#699b7f" android:pathData="M12.186,15.251L16.389,13.237L17.379,15.303L13.177,17.317L12.186,15.251Z"/>
+</vector>
